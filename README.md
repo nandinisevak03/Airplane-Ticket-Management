@@ -1,6 +1,6 @@
 ### airplane_mode
 
-flight ticket system
+Airplane Mode is a comprehensive ticket management application designed for streamlined handling of airplane ticketing and airline operations within the Frappe framework. The app simplifies tasks like booking, managing flights, tracking crew members, and monitoring revenue distribution by airline.
 
 ### Installation
 
